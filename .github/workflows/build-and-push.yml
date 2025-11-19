@@ -9,7 +9,7 @@ env:
   DOCKER_REGISTRY: docker.io
   GHCR_REGISTRY: ghcr.io
   IMAGE_NAME: lnliz/electrs
-  ELECTRS_VERSION: v0.10.10
+  ELECTRS_VERSION: v0.11.0
 
 jobs:
   build-and-push:
